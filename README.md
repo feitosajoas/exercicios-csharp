@@ -1,2 +1,2 @@
 # exercicios-csharp
-Exercícios de treinamento na linguagem C#
+Exercícios antigos de treinamento na linguagem C#
